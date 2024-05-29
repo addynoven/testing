@@ -15,8 +15,5 @@ static public void sol(){
     System.out.println("Input y2: ");
     y2=kb.nextInt();
     System.out.println("Distance between the said points: "+(Math.sqrt(Math.pow((x2-x1),2) + Math.pow((y2-y1),2))));
-}
-}
-//
-//
-//
+            }
+        }
